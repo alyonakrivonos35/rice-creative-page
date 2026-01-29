@@ -48,5 +48,5 @@ This project does not require any build tools or frameworks.
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rice-creative.git
+git clone https://github.com/your-username/rice-creative-page.git
 ```
